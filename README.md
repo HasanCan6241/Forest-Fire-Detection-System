@@ -2,7 +2,7 @@
 
 This project is a deep learning application designed to detect whether a fire exists in an image. Users can upload a fire image to receive predictions from the model, contributing to early fire detection efforts.
 
-<img src="images/project-1.png" alt="ForestFire" width="800" height="420">  <!-- Add an image relevant to your project -->
+<img src="images/Project-1.png" alt="ForestFire" width="800" height="420">  <!-- Add an image relevant to your project -->
 
 ## 🔍 Project Overview
 
@@ -21,7 +21,7 @@ Forest fires are among the most significant environmental disasters, spreading r
 - **Image Upload**: Users can easily upload images for prediction and view results instantly.
 - **Visualization**: Displays the uploaded image and the prediction result clearly.
 
-<img src="images/project-2.png" alt="ForestFire" width="800" height="420">  <!-- Add an image relevant to your project -->
+<img src="images/Project-2.png" alt="ForestFire" width="800" height="420">  <!-- Add an image relevant to your project -->
 
 ### Prerequisites
 
